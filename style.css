@@ -1,4 +1,4 @@
-/* style.css */
+
 
 body {
     font-family: 'Arial', sans-serif;
@@ -12,7 +12,7 @@ body {
     background-image: url('couverture.webp');
     background-size: cover;
     background-position: center;
-    height: 400px; /* Ajustez la hauteur selon vos besoins */
+    height: 400px; 
     position: relative;
     display: flex;
     align-items: center;
@@ -25,7 +25,7 @@ body {
     position: absolute;
     top: 20px;
     left: 20px;
-    width: 100px; /* Ajustez la taille selon vos besoins */
+    width: 100px; 
 }
 
 .profile-info {
